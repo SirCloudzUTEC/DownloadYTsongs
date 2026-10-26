@@ -1,0 +1,5 @@
+# Una URL por línea. Las líneas con # y las vacías se ignoran.
+# Se pueden mezclar videos y playlists.
+https://www.youtube.com/watch?v=AAAA
+https://youtu.be/BBBB
+https://www.youtube.com/playlist?list=CCCC

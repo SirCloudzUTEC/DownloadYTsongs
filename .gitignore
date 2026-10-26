@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Audio descargado
+canciones/
+*.mp3
+*.m4a
+*.opus
+*.flac
+*.part
+*.webm
+
+# Listas y notas personales
+batch/lista.txt
+uso.txt
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
